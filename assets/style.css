@@ -1,0 +1,67 @@
+.logo {
+    width: 80px;
+}
+
+.bkg_aqua {
+    background-color: #00c785;
+    height: 750px;
+}
+
+.content {
+    padding: 80px 0;
+}
+
+.form-select {
+    border: solid 2px rgb(148, 144, 144);
+    margin-inline: 1rem;
+}
+
+.grid {
+	box-sizing: content-box;
+}
+
+
+.instructions {
+	color: white;
+}
+
+.grid_easy {
+    width: 600px;
+}
+
+.grid_medium {
+    width: 540px;
+}
+
+.grid_hard {
+    width: 420px;
+}
+
+.cell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700;
+	width: 60px;
+	height: 60px;
+	border: 1px solid yellow;
+	cursor: pointer;
+}
+
+.blu {
+	background-color: rgb(50, 77, 155);
+}
+
+.red {
+    background-color: red;
+}
+
+
+
+.user_lose {
+    display: none;
+}
+
+.user_text {
+    display: block;
+}
